@@ -1,0 +1,123 @@
+img{
+    width: 5.5rem;
+    height: 5.2rem;
+    border-radius: 50%;
+}
+.img{
+    position: fixed;
+}
+*{
+    margin:0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background-image: url(./Word\ QUIZ\ made\ of\ neon\ letters\ on\ dark\ brick\ background.webp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}   
+
+.navbar{
+    width: 1200px ;
+    height: 75px;
+    margin: auto;
+}
+
+.menu{
+    width: 320px;
+    float: left;
+    height: 70px; 
+}
+ul{
+    list-style: none;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+ul li{
+    background-color: #c9baad;
+    border: none;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    list-style:none ;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 16px;
+    position: relative;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+ul li:hover{
+    background-color: #bb2f46;
+}
+ul li a{
+    text-decoration: none;
+    color: #000;
+    display: block;
+    font-family: Arial;
+    font-weight:bold;
+    
+}
+ul li a:hover{
+   color: white; 
+}
+ ul ul{
+    position: absolute;
+    display: none;
+
+}
+ul li:hover>ul{
+    display: block;
+}
+    
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.content.par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: arial;
+    letter-spacing: 1.2px;
+    line-height: 34px;
+    text-align: center;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+}
+
+.content .cn{
+   width: 160px;
+   height: 40px;
+   background: #c9baad;
+   border: none; 
+   margin-bottom: 10px;
+   margin-left: 20px; 
+   font-size: 18px;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+.content .cn a{
+    text-decoration:none ;
+    color: #000;
+    
+}
+
+.cn:hover{
+    background-color: rgb(232, 49, 49);
+}
