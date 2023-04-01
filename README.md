@@ -29,13 +29,13 @@ Getting Started
 
 To get started with this project, you will need to have a basic understanding of HTML, CSS, and JavaScript. You will also need a text editor to write and edit your code.
 
-    Create a new HTML file and add the necessary markup for the landing page. This should include a title, a header, and a button to start the quiz.
-    Create a new JavaScript file and add the necessary code to handle the logic of the quiz. This should include an array of questions, a function to display each question and its possible answers, and a function to check the user's answer and provide feedback.
-    Style your quiz using CSS to make it visually appealing and user-friendly.
+Create a new HTML file and add the necessary markup for the landing page. This should include a title, a header, and a button to start the quiz.
+Create a new JavaScript file and add the necessary code to handle the logic of the quiz. This should include an array of questions, a function to display each question and its possible answers, and a function to check the user's answer and provide feedback.
+Style your quiz using CSS to make it visually appealing and user-friendly.
 
 Quiz Logic
 
 The quiz will consist of multiple-choice questions, where each question has four possible answers. The user will select their answer by clicking on the corresponding button. Once the user has made their selection, the application will check if the answer is correct or incorrect and provide immediate feedback to the user. The quiz will continue until all questions have been answered.
 Results Page
 
-After the user has completed all questions, the application will display a results page. This page will show the user's score and provide feedback based on their performance. The user will have the option to retake the quiz or return to the landing page.
+After the user has completed all questions, the application will display a results page. This page will show the user's score.The user will have the option to retake the quiz or return to the landing page.
