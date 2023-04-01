@@ -13,9 +13,9 @@ The quiz webside will consist of the following components:
    ![Quiz](https://user-images.githubusercontent.com/120910923/229303702-cdf170a9-01e7-4cdf-8578-072e78a3cd4c.png)
 
 
-    A landing page that introduces the quiz and prompts the user to start the quiz.
-    A series of multiple-choice questions that the user must answer.
-    ![Screenshot (292)](https://user-images.githubusercontent.com/120910923/229304071-42976db3-8c18-45e1-8d06-41102949263d.png)
+   A landing page that introduces the quiz and prompts the user to start the quiz.
+   A series of multiple-choice questions that the user must answer.
+   ![Screenshot (292)](https://user-images.githubusercontent.com/120910923/229304071-42976db3-8c18-45e1-8d06-41102949263d.png)
 
     A results page that displays the user's scores.
     ![Screenshot (291)](https://user-images.githubusercontent.com/120910923/229304014-797e4dba-83ec-4d62-bb8a-c576ecc31d70.png)
